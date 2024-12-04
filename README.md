@@ -1,6 +1,17 @@
-# IGE for Wealth Mobility: Simulations and Experiments
+# About the Project 
+### Title: 
+**Is Intergenerational Elasticity (IGE) a Misleading Measure of Wealth Mobility?**
 
-# Folder
+### Authors: 
+- Seorin Kim (Corresponding author. seorin.kim@vub.be)
+- Arne Vanhoyweghen
+- Wouter Ryckbosch
+- Vincent Ginis </br>
+
+
+
+# About the Repository
+### Folder Structure
 ```bash
 ├── README.md
 ├── data
@@ -26,15 +37,15 @@
 └── requirements.txt
 ```
 
-## notebooks
+### notebooks
 This folder includes notebooks used to create figures.
 The file names indicate which figures were created with the corresponding notebook.
 
-## data
+### data
 The dataset used in this project is available at [Online Library of Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12165).
 Please convert the files into CSV before running the codes.
 
-## img
+### img
 This folder contains all the image files presented in the paper.
 
 

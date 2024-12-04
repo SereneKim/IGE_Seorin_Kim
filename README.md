@@ -3,7 +3,7 @@
 **Is Intergenerational Elasticity (IGE) a Misleading Measure of Wealth Mobility?**
 
 ### Authors: 
-- Seorin Kim (Corresponding author. seorin.kim@vub.be)
+- Seorin Kim (seorin.kim@vub.be)
 - Arne Vanhoyweghen
 - Wouter Ryckbosch
 - Vincent Ginis </br>

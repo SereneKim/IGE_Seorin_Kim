@@ -1,16 +1,8 @@
-# About the Project 
-### Title: 
-**Is Intergenerational Elasticity (IGE) a Misleading Measure of Wealth Mobility?**
+# Is Intergenerational Elasticity (IGE) a Misleading Measure of Wealth Mobility?
 
-### Authors: 
-- Seorin Kim (seorin.kim@vub.be)
-- Arne Vanhoyweghen
-- Wouter Ryckbosch
-- Vincent Ginis </br>
+Seorin Kim (seorin.kim@vub.be), Arne Vanhoyweghen, Wouter Ryckbosch and Vincent Ginis 
 
 
-
-# About the Repository
 ### Folder Structure
 ```bash
 ├── README.md
